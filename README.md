@@ -4,7 +4,7 @@
 - 💻 Final Year student @NSUT, East Campus.
 - 🌱 I started with C then moved to C++, learning Web Dev here & there and I’m currently working on various projects to hone my skillset.
 - 💞️ I’m open to collaboration in projects, feel free to ask.
-- 📫 How to reach me?... ping me here, comment or try anything. you will soon get a reply.
+- 📫 How to reach me?... https://www.linkedin.com/in/abhinavjoshi05/
 
 <!---
 Abhinav-J05/Abhinav-J05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
