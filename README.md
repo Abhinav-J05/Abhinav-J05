@@ -1,9 +1,9 @@
-[01-07-21]
+👨‍🎓 - not on social media
 
-- 👋 Hi, I’m @Abhinav-J05
-- 👀 I’m interested in ML & Data Science.
-- 🌱 I started with C then moved to C++, learning Web Dev here & there and I’m currently learning python to start my journey in ML & Data Science.
-- 💞️ I’m looking to collaborate on Projects related to Web Development, core software developer projects or ML & Data Science
+- 👋 Hi, I’m Abhinav Joshi.
+- 💻 Final Year student @NSUT, East Campus.
+- 🌱 I started with C then moved to C++, learning Web Dev here & there and I’m currently working on various projects to hone my skillset.
+- 💞️ I’m open to collaboration in projects, feel free to ask.
 - 📫 How to reach me?... ping me here, comment or try anything. you will soon get a reply.
 
 <!---
