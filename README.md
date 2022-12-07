@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Abhinav Joshi.
 - 💻 Final Year student @NSUT, East Campus.
-- 🌱 I started with C then moved to C++, learning Web Dev here & there and I’m currently working on various projects to hone my skillset.
+- 🌱 C++ is my first language, currently exploring field of web development.
 - 💞️ I’m open to collaboration in projects, feel free to ask.
 - 📫 How to reach me?... https://www.linkedin.com/in/abhinavjoshi05/
 
