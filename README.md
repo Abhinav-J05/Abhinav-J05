@@ -1,4 +1,4 @@
-👨‍🎓 - not on social media
+👨‍🎓 -
 
 - 👋 Hi, I’m Abhinav Joshi.
 - 💻 Final Year student @NSUT, East Campus.
