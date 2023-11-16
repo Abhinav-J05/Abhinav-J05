@@ -1,7 +1,2 @@
-👨‍🎓 -
 
-- 👋 Hi, I’m Abhinav Joshi.
-- 💻 Graduated from NSUT,East Campus.
-- 🌱 I’m open to collaboration in projects, feel free to ask.
-- 📫 How to reach me?... https://www.linkedin.com/in/abhinavjoshi05/
-
+<a href=”https://www.linkedin.com/in/abhinavjoshi05/"><img align=”left” src=”https://raw.githubusercontent.com/abhinavjoshi05/images/main/11Future logo of PATTERN.png" alt=”icon | LinkedIn” width=”21px”/></a>
