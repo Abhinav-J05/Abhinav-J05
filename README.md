@@ -3,7 +3,7 @@
 </p>
 
 
-[![website](./images/sdff.png) width="22"](https://codestackr.com#gh-light-mode-only)
+[![website](./images/sdff.png width="22")](https://codestackr.com#gh-light-mode-only)
 [![website](./images/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
