@@ -12,7 +12,7 @@
 </p>
 <p>
   <h6> Twitter ( X ) <h6>
-<a href=”https://www.linkedin.com/in/Abhinav-J05/"><img align=”left” src=”https://raw.githubusercontent.com/Abhinav-J05/Abhinav-J05/main/images/pngwidfdng.com.png" alt=”Yu Shi | LinkedIn” width=”21px”/></a>
+<a href=”https://www.linkedin.com/in/Abhinav-J05/"><img align=”left” src=”https://raw.githubusercontent.com/Abhinav-J05/Abhinav-J05/tree/main/images/pngwidfdng.com.png" alt=”Yu Shi | LinkedIn” width=”21px”/></a>
 
 
   <h3> Hobby </h3>
