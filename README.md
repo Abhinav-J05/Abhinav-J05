@@ -12,7 +12,7 @@
 <p align="left">
 <h6> As a hobby, I'm currently building <b>Pattern</b> .. check it out. <h6>
 
-  <a href="https://twitter.com/pattern_insight" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Pattern" height="30" width="40" /></a>
+  <a href="https://twitter.com/pattern_insight" target="blank"><img align="center" src="https://github.com/Abhinav-J05/Abhinav-J05/blob/main/images/11Future%20logo%20of%20PATTERN.png" alt="Pattern" height="30" width="40" /></a>
   <a href="https://www.youtube.com/c/pattern_insight" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="Pattern" height="30" width="40" /></a>
 </p>
 
