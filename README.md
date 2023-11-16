@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-<h6> As a hobby, I'm currently building <b>Pattern</b> .. check it out. <h6>
+  <span style="color:blue"><h6> As a hobby, I'm currently building <b>Pattern</b> .. check it out. <h6></span>
 
   <a href="https://twitter.com/pattern_insight" target="blank"><img align="center" src="https://github.com/Abhinav-J05/Abhinav-J05/blob/main/images/meow.png" alt="Pattern" height="40" width="40" /></a>
   
