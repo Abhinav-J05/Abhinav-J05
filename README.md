@@ -1,6 +1,6 @@
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinav&label=Profile%20views&color=000000&style=flat" alt="abhinav" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinav&label=Profile%20views&color=001010&style=flat" alt="abhinav" /> </p>
 <h3 align="left">________________________________________________________________________________________</h3>
 <p align="left">
 <a href="https://twitter.com/abhinav_joshi_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhinav_joshi_1" height="30" width="40" /></a>
